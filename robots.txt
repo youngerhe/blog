@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://github.com/youngerhe/sitemap.xml
+Sitemap: https://github.com/youngerhe/blog/sitemap.xml
